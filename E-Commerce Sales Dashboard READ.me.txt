@@ -1,0 +1,33 @@
+# E-Commerce Sales Dashboard (Power BI)
+
+## Overview
+
+This project is an interactive sales dashboard built using Power BI.
+
+## Features
+
+- Total Revenue Analysis
+- Total Profit Analysis
+- Total Orders Analysis
+- Total Items Sold
+- Monthly Revenue Trends
+- Product Performance Analysis
+- Year-wise Order Analysis
+
+## Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+
+## Dashboard Preview
+
+(Add your screenshot here)
+
+## Key Insights
+
+- Total Revenue: 3M
+- Total Orders: 32K
+- Total Items Sold: 40K
+- Total Profit: 2M
